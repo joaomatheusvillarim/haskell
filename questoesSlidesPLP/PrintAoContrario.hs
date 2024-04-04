@@ -4,7 +4,7 @@ main:: IO()
 main =
     do
         input <- readLn :: IO Int
-        if input == 0 then print "Sequencia invertida:"
+        if input == -1 then print "Sequencia invertida:"
         else
             do
                 main
