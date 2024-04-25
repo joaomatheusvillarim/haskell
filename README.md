@@ -1,4 +1,4 @@
-# Paradigma de Linguagem de Programação 23.2
+# Exercícios de Paradigmas de Linguagem de Programação 2023.2
 
 ### Índice
 - [Questões de Slides de Haskell](/questoesSlidesHaskell/)
